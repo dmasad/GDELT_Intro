@@ -1,0 +1,18 @@
+<style>
+	div.cell{
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	div.text_cell_render{
+		line-height: 145%;
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.CodeMirror{
+		font-family: "Source Code Pro", source-code-pro, Consolas, monospace;
+	}
+
+</style>
