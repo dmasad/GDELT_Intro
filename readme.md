@@ -14,6 +14,6 @@ Some quick tutorials on working with the Global Data on Events, Location and Ton
 
 GDELT is now hosted on BigQuery, check some resources:
 
-- [Jupyter Notebook with graph network visualizations](https://twitter.com/felipehoffa/status/660231941866655744)
-- [Getting Started with GDELT + Google Cloud Datalab: Simple Timelines](http://blog.gdeltproject.org/getting-started-with-gdelt-google-cloud-datalab-simple-timelines/)
-- [GDELT video, includes some live coding](https://www.youtube.com/watch?v=Psp7YivWL90)
+- [Jupyter Notebook with graph network visualizations](http://data.gdeltproject.org/blog/google-cloud-datalab-demos/Getting%20Started%20with%20GDELT%20%2B%20Google%20Cloud%20Datalab%20-%20Simple%20Network%20Visualizations.html).
+- [Getting Started with GDELT + Google Cloud Datalab: Simple Timelines](http://blog.gdeltproject.org/getting-started-with-gdelt-google-cloud-datalab-simple-timelines/).
+- [GDELT video, includes some live coding](https://www.youtube.com/watch?v=Psp7YivWL90).
